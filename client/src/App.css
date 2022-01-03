@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.flex-center {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.track-table {
+    margin: 0 25vw;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.back-arrow {
+    margin-top: 5px;
+    margin-right: 10px;
+}
