@@ -3,10 +3,12 @@
 ### To run:
 - Open terminal 1
 - cd server
+- npm install
 - npm start
 
 - Open terminal 2
 - cd client
+- npm install
 - npm start
 
 ### Takeaways
